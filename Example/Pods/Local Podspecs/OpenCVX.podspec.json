@@ -1,0 +1,22 @@
+{
+  "name": "OpenCVX",
+  "version": "0.1.0",
+  "summary": "A short description of OpenCVX.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wanglongxiang360/OpenCVX",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wanglongxiang360": "wanglongxiang@360.cn"
+  },
+  "source": {
+    "git": "https://github.com/wanglongxiang360/OpenCVX.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "OpenCVX/Classes/**/*"
+}

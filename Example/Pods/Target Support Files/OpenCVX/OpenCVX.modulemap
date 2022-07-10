@@ -1,0 +1,6 @@
+framework module OpenCVX {
+  umbrella header "OpenCVX-umbrella.h"
+
+  export *
+  module * { export * }
+}
